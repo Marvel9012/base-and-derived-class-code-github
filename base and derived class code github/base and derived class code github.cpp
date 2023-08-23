@@ -16,7 +16,7 @@ public:
     }
     virtual void dis()
     {
-        cout << _firstname << " ";
+        cout << _firstname << ",";
     }
 };
 class derived :public base
