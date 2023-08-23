@@ -8,7 +8,7 @@ public:
     base()
     {
         _firstname = new char[80];
-        strcpy(_firstname, "yuva");
+        strcpy(_firstname, "PREETHI INDARAPU");
     }
     virtual ~base()
     {
@@ -26,7 +26,7 @@ public:
     derived()
     {
         _lastname = new char[80];
-        strcpy(_lastname, "nagendra");
+        strcpy(_lastname, "SRAVANI KOYYANI");
     }
     ~derived()
     {
