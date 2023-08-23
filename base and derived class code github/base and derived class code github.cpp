@@ -43,7 +43,6 @@ int main()
 {
     base* ptr = new derived;
 
-    //derived d1;
     ptr->dis();
 
 }
