@@ -36,6 +36,7 @@ public:
     {
         base::dis();
         cout << _lastname << endl;
+        cout << "india" << endl;
     }
 
 };
